@@ -34,6 +34,12 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
+    - title: 草料二维码
+      qrcode: images/qrcodes/cli.png
+      url: https://cli.im/url
+      description: 在线二维码生成工具
+    - title: 在线文件传输
+      url: https://musetransfer.com/
     
 
 - taxonomy: 社区咨询
