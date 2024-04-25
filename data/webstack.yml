@@ -15,11 +15,11 @@
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
-    - title: 美国虚拟卡
-      qrcode: images/qrcodes/usdt.png
+    - title: 在线抽奖
+      qrcode: 
       logo:
-      url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
-      description: usdt套现，国内拼多多消费，支付宝消费
+      url: http://124.221.39.233/
+      description: 在线抽奖系统
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/cn/info/freeprice
