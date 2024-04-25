@@ -44,17 +44,15 @@
 
 - taxonomy: 影视影音
   icon: fa-video-camera
-  list: 
-     links:
-        - title: 字幕库
-          url: https://zmk.pw/
-        - title: SubHD
-          url: https://subhd.tv/
-      links:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
+  links:
+    - title: 字幕库
+      url: https://zmk.pw/
+    - title: SubHD
+      url: https://subhd.tv/
+    - title: 果核音乐搜搜
+      url: https://music.ghxi.com/
+    - title: 音乐磁场
+      url: https://www.hifini.com/
 
           
 - taxonomy: 社区咨询
