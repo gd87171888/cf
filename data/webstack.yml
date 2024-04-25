@@ -8,6 +8,10 @@
       logo:  
       url: https://link3.cc/kk82
       description: 资源分享，详细图文教程。
+    - title: 个人微信
+      qrcode: 
+      logo:  
+      description: 联系人，详细教程。
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
