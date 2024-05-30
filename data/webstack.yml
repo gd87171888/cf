@@ -12,9 +12,9 @@
       qrcode: 
       logo:  
       description: 联系人，详细教程。
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
+    - title: 可可影视
+      url: https://www.keke1.app/
+      description: 拥有海量影视资源，各大主流影视平台和影视网站的视频内容
     - title: 在线抽奖
       qrcode: 
       logo:
@@ -39,11 +39,11 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
-    - title: 博客
-      url: https://bk.km888.fun/
-    - title: 快手极速版
+    - title: 快卖博客
+      url: https://blog.km888.fun/
+    - title: 时光博客
       logo: images/mmexport1715695061257.jpg
-      url: https://too.st/9Ll
+      url: https://bh.km888.fun/
       
 - taxonomy: 影视影音
   icon: fa-video-camera
