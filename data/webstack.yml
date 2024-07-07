@@ -44,18 +44,16 @@
     - title: 时光博客
       logo: images/mmexport1715695061257.jpg
       url: https://bh.km888.fun/
-    - title: 网心云
-      url: https://www.onethingcloud.com/
-      
-- taxonomy: 影视影音
+    
+- taxonomy: 影视影音网赚
   icon: fa-video-camera
   links:
     - title: 字幕库
       url: https://zmk.pw/
     - title: SubHD
       url: https://subhd.tv/
-    - title: 音乐磁场
-      url: https://www.hifini.com/
+    - title: 网心云
+      url: https://www.onethingcloud.com/
 
           
 - taxonomy: 社区咨询
