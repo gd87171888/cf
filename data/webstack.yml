@@ -34,13 +34,14 @@
       url: http://www.huizhuanle.com/
       description: 电脑赚钱邀请口令725184 
     - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
+      qrcode: 
       url: https://cli.im/url
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
     - title: 快卖博客
       url: https://blog.km888.fun/
+      logo: https://491e4dc.webp.li/IMG_20241205_184410.jpg
     - title: 时光博客
       logo: images/mmexport1715695061257.jpg
       url: https://bh.km888.fun/
